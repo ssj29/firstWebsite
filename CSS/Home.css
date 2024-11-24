@@ -1,0 +1,79 @@
+header
+{
+	height: 45px;
+}
+
+.HomeHead
+{
+	height: 100px;
+	padding:10px 10px 10px 10px;
+	color:RED;
+	text-align:center;
+	background-color:BLACK;
+}
+
+.HomeTabs
+{
+	height: 50px;
+	color:RED;
+	background-color:BLACK;
+	width:100%;
+	overflow: hidden;
+}
+
+.HomeTabs button
+{
+	height:30px;
+	width:150px;
+	margin-left:19%;
+}
+
+.HomeTabs button:hover 
+{
+  background-color: #ddd;
+}
+
+.default
+{
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.tabcontent 
+{
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  
+  h1
+  {
+	  text-align:center;
+	  text-decoration:underline;
+  }
+  h2
+  {
+	  text-align:left;
+  }
+  
+    img
+  {
+	  position:relative;
+	  width:50%;
+	  height:40%;
+	  padding-left:25%;
+	  
+  }
+}
+
+
+.footer
+{
+	height: 100px;
+	padding:10px 10px 10px 10px;
+	color:RED;
+	text-align:center;
+	background-color:BLACK;
+}
+
